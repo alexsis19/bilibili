@@ -1,2 +1,3 @@
-# Qniverse-Website-Automation---Cypress
-This is a POM design pattern based on Cypress using JavaScript to Automate Qniverse Website.
+
+This is a POM design pattern based on Cypress using JavaScript to for Automation.
+after cloning use npm install
